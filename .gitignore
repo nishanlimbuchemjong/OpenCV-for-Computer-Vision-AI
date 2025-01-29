@@ -3,7 +3,8 @@
 
 # Ignore all datasets
 Dataset/
-
+image/
+video/
 # Ignore image files generated during training or testing
 *.png
 
